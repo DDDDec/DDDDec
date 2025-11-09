@@ -48,5 +48,3 @@
     <td>I like laravel a lot, hate me.</td>
  </tr>
 </table>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DDDDec&ring=59BDD4&fire=59BDD4&currStreakLabel=59BDD4)](https://git.io/streak-stats)
