@@ -41,8 +41,14 @@
     </td>
  </tr>
  <tr>
-    <td>Malevolent is a project for plutonium supporting both multiplayer and zombies collecting stats and adding modifications to the game.</td>
-    <td>Web designs contains website designs ive made over the course of me learning.</td>
+    <td>
+      Malevolent is a project for plutonium supporting both multiplayer and zombies collecting stats and adding modifications to the game.
+      <a href="https://github.com/DDDDec/MalevolentPlutonium">Malevolent Project</a>
+    </td>
+    <td>
+      Web designs contains website designs ive made over the course of me learning.
+      <a href="https://github.com/DDDDec/WebsiteDesigns">Malevolent Project</a>
+    </td>
     <td>KitsuneCards is a collectibles ecommerce selling website.</td>
     <td>I like laravel a lot, hate me.</td>
     <td>I like laravel a lot, hate me.</td>
