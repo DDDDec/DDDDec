@@ -8,21 +8,21 @@
      <b style="font-size:30px">
       <img src="https://cdn.discordapp.com/attachments/1350948087027335262/1399202243860762785/flower.png?ex=69114022&is=690feea2&hm=b5f480b65abc90a0d94b806408f76891c0e63c766fbf6a9b7b05b86caa0544b6&" 
              alt="DDDDec's Flower" 
-             style="height:30px; vertical-align:middle; margin-right:8px;"> Title
+             style="height:30px; vertical-align:middle; margin-right:8px;"> Malevolent
      </b>
     </td>
     <td>
      <b style="font-size:30px">
       <img src="https://cdn.discordapp.com/attachments/1350948087027335262/1399202243860762785/flower.png?ex=69114022&is=690feea2&hm=b5f480b65abc90a0d94b806408f76891c0e63c766fbf6a9b7b05b86caa0544b6&" 
              alt="DDDDec's Flower" 
-             style="height:30px; vertical-align:middle; margin-right:8px;"> Title 2
+             style="height:30px; vertical-align:middle; margin-right:8px;"> Web Designs
      </b>
     </td>
     <td>
      <b style="font-size:30px">
       <img src="https://cdn.discordapp.com/attachments/1350948087027335262/1399202243860762785/flower.png?ex=69114022&is=690feea2&hm=b5f480b65abc90a0d94b806408f76891c0e63c766fbf6a9b7b05b86caa0544b6&" 
              alt="DDDDec's Flower" 
-             style="height:30px; vertical-align:middle; margin-right:8px;"> Title 3
+             style="height:30px; vertical-align:middle; margin-right:8px;"> KitsuneCards
      </b>
     </td>
     <td>
@@ -41,9 +41,9 @@
     </td>
  </tr>
  <tr>
-    <td>I like laravel a lot, hate me.</td>
-    <td>I like laravel a lot, hate me.</td>
-    <td>I like laravel a lot, hate me.</td>
+    <td>Malevolent is a project for plutonium supporting both multiplayer and zombies collecting stats and adding modifications to the game.</td>
+    <td>Web designs contains website designs ive made over the course of me learning.</td>
+    <td>KitsuneCards is a collectibles ecommerce selling website.</td>
     <td>I like laravel a lot, hate me.</td>
     <td>I like laravel a lot, hate me.</td>
  </tr>
