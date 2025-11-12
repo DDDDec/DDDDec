@@ -6,22 +6,22 @@
  <tr>
     <td>
      <b style="font-size:30px">
-      <img src="https://cdn.discordapp.com/attachments/1350948087027335262/1399202243860762785/flower.png?ex=69114022&is=690feea2&hm=b5f480b65abc90a0d94b806408f76891c0e63c766fbf6a9b7b05b86caa0544b6&" 
-             alt="DDDDec's Flower" 
+      <img src="https://storage.ko-fi.com/cdn/useruploads/display/a722b047-d100-4c99-9532-5e162f283da3_discordwlts2.png" 
+             alt="ScoobyDoo" 
              style="height:30px; vertical-align:middle; margin-right:8px;"> Malevolent
      </b>
     </td>
     <td>
      <b style="font-size:30px">
-      <img src="https://cdn.discordapp.com/attachments/1350948087027335262/1399202243860762785/flower.png?ex=69114022&is=690feea2&hm=b5f480b65abc90a0d94b806408f76891c0e63c766fbf6a9b7b05b86caa0544b6&" 
-             alt="DDDDec's Flower" 
+      <img src="https://storage.ko-fi.com/cdn/useruploads/display/a722b047-d100-4c99-9532-5e162f283da3_discordwlts2.png" 
+             alt="ScoobyDoo" 
              style="height:30px; vertical-align:middle; margin-right:8px;"> Website Designs
      </b>
     </td>
     <td>
      <b style="font-size:30px">
-      <img src="https://cdn.discordapp.com/attachments/1350948087027335262/1399202243860762785/flower.png?ex=69114022&is=690feea2&hm=b5f480b65abc90a0d94b806408f76891c0e63c766fbf6a9b7b05b86caa0544b6&" 
-             alt="DDDDec's Flower" 
+      <img src="https://storage.ko-fi.com/cdn/useruploads/display/a722b047-d100-4c99-9532-5e162f283da3_discordwlts2.png" 
+             alt="ScoobyDoo" 
              style="height:30px; vertical-align:middle; margin-right:8px;"> Kitsune Cards
      </b>
     </td>
