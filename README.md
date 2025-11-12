@@ -22,7 +22,7 @@
      <b style="font-size:30px">
       <img src="https://cdn.discordapp.com/attachments/1350948087027335262/1399202243860762785/flower.png?ex=69114022&is=690feea2&hm=b5f480b65abc90a0d94b806408f76891c0e63c766fbf6a9b7b05b86caa0544b6&" 
              alt="DDDDec's Flower" 
-             style="height:30px; vertical-align:middle; margin-right:8px;"> KitsuneCards
+             style="height:30px; vertical-align:middle; margin-right:8px;"> Kitsune Cards
      </b>
     </td>
  </tr>
