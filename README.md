@@ -35,6 +35,9 @@
       Web designs contains website designs ive made over the course of me learning.
       <a href="https://github.com/DDDDec/WebsiteDesigns">Website Designs</a>
     </td>
-    <td>KitsuneCards is a collectibles ecommerce selling website built with laravel.</td>
+    <td>
+      KitsuneCards is a collectibles ecommerce selling website built with laravel.
+      <a href="https://github.com/DDDDec/KitsuneCards">Kitsune Cards</a>
+    </td>
  </tr>
 </table>
