@@ -15,13 +15,6 @@
      <b style="font-size:30px">
       <img src="https://storage.ko-fi.com/cdn/useruploads/display/a722b047-d100-4c99-9532-5e162f283da3_discordwlts2.png" 
              alt="ScoobyDoo" 
-             style="height:30px; vertical-align:middle; margin-right:8px;"> Website Designs
-     </b>
-    </td>
-    <td>
-     <b style="font-size:30px">
-      <img src="https://storage.ko-fi.com/cdn/useruploads/display/a722b047-d100-4c99-9532-5e162f283da3_discordwlts2.png" 
-             alt="ScoobyDoo" 
              style="height:30px; vertical-align:middle; margin-right:8px;"> Kitsune Cards
      </b>
     </td>
@@ -30,10 +23,6 @@
     <td>
       Malevolent is a project for plutonium supporting both multiplayer and zombies collecting stats and adding modifications to the game.
       <a href="https://github.com/DDDDec/MalevolentPlutonium">Malevolent Project</a>
-    </td>
-    <td>
-      Web designs contains website designs ive made over the course of me learning.
-      <a href="https://github.com/DDDDec/WebsiteDesigns">Website Designs</a>
     </td>
     <td>
       KitsuneCards is a collectibles ecommerce selling website built with laravel.
