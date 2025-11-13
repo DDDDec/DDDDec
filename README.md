@@ -2,21 +2,21 @@
              alt="DDDDec's Flower" 
              style="width: 100%; overflow: hidden; border-radius: 10px;">
 
-# <img src="https://storage.ko-fi.com/cdn/useruploads/display/2f1b7447-ce86-4626-bbeb-db100fcb9783_flower.png" alt="DDDDec's Flower" style="width: 35px; overflow: hidden; border-radius: 10px;"> The current projects I'm working on
+# <img src="https://storage.ko-fi.com/cdn/useruploads/display/a722b047-d100-4c99-9532-5e162f283da3_discordwlts2.png" alt="Scoobydoo" style="width: 35px; overflow: hidden; border-radius: 10px;"> The current projects I'm working on
 
 <table border="0">
  <tr>
     <td>
      <b style="font-size:30px">
-      <img src="https://storage.ko-fi.com/cdn/useruploads/display/a722b047-d100-4c99-9532-5e162f283da3_discordwlts2.png" 
-             alt="ScoobyDoo" 
+      <img src="https://storage.ko-fi.com/cdn/useruploads/display/2f1b7447-ce86-4626-bbeb-db100fcb9783_flower.png" 
+             alt="DDDDec's Flower" 
              style="height:30px; vertical-align:middle; margin-right:8px;"> Malevolent
      </b>
     </td>
     <td>
      <b style="font-size:30px">
-      <img src="https://storage.ko-fi.com/cdn/useruploads/display/a722b047-d100-4c99-9532-5e162f283da3_discordwlts2.png" 
-             alt="ScoobyDoo" 
+      <img src="https://storage.ko-fi.com/cdn/useruploads/display/2f1b7447-ce86-4626-bbeb-db100fcb9783_flower.png" 
+             alt="DDDDec's Flower" 
              style="height:30px; vertical-align:middle; margin-right:8px;"> Kitsune Cards
      </b>
     </td>
