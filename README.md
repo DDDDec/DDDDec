@@ -2,7 +2,7 @@
              alt="DDDDec's Flower" 
              style="width: 100%; overflow: hidden; border-radius: 10px;">
 
-# <img src="https://storage.ko-fi.com/cdn/useruploads/display/2f1b7447-ce86-4626-bbeb-db100fcb9783_flower.png" alt="DDDDec's Flower" style="width: 100%; overflow: hidden; border-radius: 10px;"> The current projects I'm working on
+# <img src="https://storage.ko-fi.com/cdn/useruploads/display/2f1b7447-ce86-4626-bbeb-db100fcb9783_flower.png" alt="DDDDec's Flower" style="width: 20px; overflow: hidden; border-radius: 10px;"> The current projects I'm working on
 
 <table border="0">
  <tr>
