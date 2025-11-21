@@ -13,22 +13,11 @@
              style="height:30px; vertical-align:middle; margin-right:8px;"> Malevolent
      </b>
     </td>
-    <td>
-     <b style="font-size:30px">
-      <img src="https://storage.ko-fi.com/cdn/useruploads/display/2f1b7447-ce86-4626-bbeb-db100fcb9783_flower.png" 
-             alt="DDDDec's Flower" 
-             style="height:30px; vertical-align:middle; margin-right:8px;"> Kitsune Cards
-     </b>
-    </td>
  </tr>
  <tr>
     <td>
       Malevolent is a project for plutonium supporting both multiplayer and zombies collecting stats and adding modifications to the game.
       <a href="https://github.com/DDDDec/MalevolentPlutonium">Malevolent Project</a>
-    </td>
-    <td>
-      KitsuneCards is a collectibles ecommerce selling website built with laravel.
-      <a href="https://github.com/DDDDec/KitsuneCards">Kitsune Cards</a>
     </td>
  </tr>
 </table>
