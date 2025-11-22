@@ -16,7 +16,7 @@
  </tr>
  <tr>
     <td>
-      Malevolent is a project for plutonium supporting both multiplayer and zombies collecting stats and adding modifications to the game.
+      Malevolent Plutonium is a project for both call of duty black ops 2 amd call of duty black ops offering custom server features, a featureful website including statistics, round leaderboards and an ecommerce store using paypal aswell as a discord bot and a plutonium dll plugin. 
       <a href="https://github.com/DDDDec/MalevolentPlutonium">Malevolent Project</a>
     </td>
  </tr>
