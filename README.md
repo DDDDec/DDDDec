@@ -16,7 +16,7 @@
  </tr>
  <tr>
     <td>
-      Malevolent is a project for plutonium currently only support zombie game modes. Providing a database to store user information, Modifications to the game like bank, leveling and score changes.  
+      Malevolent is a project for plutonium currently only supporting zombie game modes. Providing a database to store user information, Modifications to the game like bank, leveling and score changes.  
       <a href="https://github.com/DDDDec/Malevolent">Malevolent</a>
     </td>
  </tr>
